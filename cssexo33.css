@@ -10,9 +10,11 @@
     text-align: right ;
     border-radius: 5px;
 }
+
 .menu li {
     display: inline-block ;
 }
+
 .menu2 a {
     display: block ;
     width: 100px ;
@@ -25,9 +27,11 @@
     text-align: center ;
     border-radius: 5px;
 }
+
 .menu2 li {
     display: inline-block ;
 }
+
 .menu3 a {
     display: block ;
     width: 100px ;
@@ -40,6 +44,7 @@
     text-align: center ;
     border-radius: 5px;
 }
+
 .menu3 li {
     display: inline-block ;
 }
